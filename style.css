@@ -1,0 +1,22 @@
+
+
+
+body{
+    max-width: 350vh;
+    max-height: 60vh;
+    min-width: 2500vh;
+    background-color: grey;
+}
+.buut {
+    padding-left: 25vh;
+    padding-top: 2vh;
+}
+input {
+    color: green;
+    font-size: 24px;
+}
+
+label {
+    color: peachpuff;
+    font-size: 15px;
+}
